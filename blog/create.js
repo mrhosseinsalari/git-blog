@@ -1,4 +1,4 @@
 function create(data) {
   //create blog
-  return "created blog successfully";
+  return "created blog feature successfully";
 }
