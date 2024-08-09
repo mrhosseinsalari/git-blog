@@ -1,4 +1,6 @@
 // set password
-function passwordGenerator(){
+function passwordGenerator() {
   // do something
 }
+
+function resetPassword() {}
