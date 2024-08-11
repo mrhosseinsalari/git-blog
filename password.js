@@ -4,3 +4,7 @@ function passwordGenerator() {
 }
 
 function resetPassword() {}
+
+function sendOTP() {
+  // send SMS
+}
